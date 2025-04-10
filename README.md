@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=500&lines=💡+Creative+Problem+Solver;💻+Passionate+Software+Developer;🎨+Code+%2B+Canvas+Enthusiast;🚀+Driven+by+Curiosity" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=anupam2090&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
@@ -34,18 +34,19 @@
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/anupam-bera" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="margin: 0 10px;" />
-  </a>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/anupam.bera.1401933/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" style="margin: 0 10px;" />
-  </a>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/anupam.mindscape/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" style="margin: 0 10px;" />
-  </a>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:anupam06122001@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40" style="margin: 0 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40" />
   </a>
 </p>
+
 
 
 
