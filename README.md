@@ -1,4 +1,8 @@
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=anupam2090&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Anupam Bera</h1>
 
 <h3 align="center">
@@ -12,9 +16,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=500&lines=💡+Creative+Problem+Solver;💻+Passionate+Software+Developer;🎨+Code+%2B+Canvas+Enthusiast;🚀+Driven+by+Curiosity" alt="Typing SVG" />
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=anupam2090&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 ---
 
