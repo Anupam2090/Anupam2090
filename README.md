@@ -61,27 +61,21 @@
   <img src="https://skillicons.dev/icons?i=python" alt="python" />
   <img src="https://skillicons.dev/icons?i=java" alt="java" />
   <img src="https://skillicons.dev/icons?i=flask" alt="flask" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="postman" />
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" />
-  <img src="https://skillicons.dev/icons?i=sklearn" alt="sklearn" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" />
   <img src="https://skillicons.dev/icons?i=php" alt="php" />
-  <img src="https://skillicons.dev/icons?i=django" alt="django" />
+  <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" />
   <img src="https://skillicons.dev/icons?i=react" alt="react" />
-  <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" />
   <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" />
   <img src="https://skillicons.dev/icons?i=unity" alt="unity" />
   <img src="https://skillicons.dev/icons?i=git" alt="git" />
   <img src="https://skillicons.dev/icons?i=c" alt="c" />
   <img src="https://skillicons.dev/icons?i=cs" alt="cs" />
   <img src="https://skillicons.dev/icons?i=html" alt="html" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="postman" />
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" />
+  <img src="https://skillicons.dev/icons?i=sklearn" alt="sklearn" />
   
-  <!-- Pandas logo styled to match -->
-  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg"
-       alt="pandas"
-       width="48"
-       height="48"
-       style="background-color: #1e1e1e; border-radius: 12px; padding: 6px;" />
+ 
 </div>
 
 </p>
