@@ -34,7 +34,7 @@
 <p align="center">
   📫 How to reach me: 
   <a href="mailto:anupam06122001@gmail.com">
-    <strong>anupam06122001@gmail.com</strong>
+    <strong>anupambera896@gmail.com</strong>
   </a><br>
 </p>
 
@@ -46,18 +46,22 @@
 ---
 
 <h3 align="center">🌐 Connect with me 🌐</h3>
+
 <p align="center">
-  <a href="https://linkedin.com/in/anupam-bera" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/anupam.bera.1401933/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/anupam.mindscape/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:anupam06122001@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40" />
+  <a href="https://linkedin.com/in/anupam-bera" target="_blank" style="margin: 0 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45"/>
+  </a>
+
+  <a href="https://www.facebook.com/anupam.bera.1401933/" target="_blank" style="margin: 0 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="45"/>
+  </a>
+
+  <a href="https://www.instagram.com/anupam.mindscape/" target="_blank" style="margin: 0 8px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="45"/>
+  </a>
+
+  <a href="mailto:anupambera896@gmail.com" style="margin: 0 8px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="45"/>
   </a>
 </p>
 
