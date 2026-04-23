@@ -20,10 +20,22 @@
 ---
 
 <p align="center">
-  👨‍💻 All of my projects are available at <a href="https://github.com/Anupam2090" target="_blank">github.com/Anupam2090</a><br>
+  👨‍💻 All of my projects are available at 
+  <a href="https://github.com/Anupam2090" target="_blank">github.com/Anupam2090</a><br>
 </p>
+
 <p align="center">
-  📫 How to reach me: <a href="mailto:anupam06122001@gmail.com"><strong>anupam06122001@gmail.com</strong></a><br>
+  🌐 Portfolio: 
+  <a href="https://anupam2090.github.io/anupam-portfolio/" target="_blank">
+    <strong>Visit My Portfolio</strong>
+  </a><br>
+</p>
+
+<p align="center">
+  📫 How to reach me: 
+  <a href="mailto:anupam06122001@gmail.com">
+    <strong>anupam06122001@gmail.com</strong>
+  </a><br>
 </p>
 
 <p align="center">
