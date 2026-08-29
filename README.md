@@ -84,6 +84,9 @@
   
 </p>
 
+ <p align="center"> 
+   <img src="https://raw.githubusercontent.com/Anupam2090/Anupam2090/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" /> <img src="https://raw.githubusercontent.com/Anupam2090/Anupam2090/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation" /> </p>
+
 ---
 
 <p align="center">
