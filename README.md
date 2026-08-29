@@ -57,7 +57,7 @@
 <h3 align="center">🛠️ Core Stack 🛠️</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,c,php,laravel,react,html,mysql,git" alt="core skills" />
+  <img src="https://skillicons.dev/icons?i=c,java,py,flask,latex,git,github" alt="core skills" />
 </p>
 
 ---
@@ -65,7 +65,7 @@
 <h3 align="center">📊 GitHub Stats 📊</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anupam2090&show_icons=true&theme=radical&locale=en&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=anupam2090&show_icons=true&theme=radical&locale=en&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupam2090&layout=compact&theme=radical&cache_seconds=1800&hide=jupyter%20notebook" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anupam2090&layout=compact&theme=radical&cache_seconds=1800&hide=jupyter%20notebook" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -81,11 +81,15 @@
 </p>
 
 <p align="center">
-  
+  <sub>⚠️ If a card still shows broken: right-click → open image in new tab. If it errors there too, the shared Vercel instance is temporarily down — wait a few minutes and refresh, or self-host your own copy for full reliability (link at the bottom).</sub>
 </p>
 
 ---
 
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100">
+</p>
+
+<p align="center">
+  <sub>Want stats that never go down? Fork <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> and deploy your own free Vercel instance — takes ~5 minutes and removes the shared rate limit entirely.</sub>
 </p>
