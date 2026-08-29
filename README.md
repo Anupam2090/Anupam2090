@@ -81,7 +81,7 @@
 </p>
 
 <p align="center">
-  <sub>⚠️ If a card still shows broken: right-click → open image in new tab. If it errors there too, the shared Vercel instance is temporarily down — wait a few minutes and refresh, or self-host your own copy for full reliability (link at the bottom).</sub>
+  
 </p>
 
 ---
